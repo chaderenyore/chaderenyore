@@ -6,9 +6,7 @@ Frontend Developer
 
 I'm a seasoned Jamstack Developer, frontend developer in the vue ecosystem. I take delight in crafting out code that solves real world problems and also improving and expanding my skills
 
-* 🌍  I'm based in Delta, Nigeria.
 * ✉️  You can contact me at [nyorechadere@gmail.com](mailto:nyorechadere@gmail.com)
-* 🧠  I'm learning Nodejs.
 * 🤝  I'm open to collaborating on Full stack applications
 * ⚡  I'm a big fan of Linux.
 
@@ -49,6 +47,3 @@ I'm a seasoned Jamstack Developer, frontend developer in the vue ecosystem. I ta
 
 <div width="100%" align="center"><a href="https://github.com/chaderenyore/coinprofit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chaderenyore&repo=coinprofit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/nyore"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
